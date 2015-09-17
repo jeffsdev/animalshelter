@@ -27,3 +27,11 @@ h2 {
 .column img {
   border: 2px solid yellow;
 }
+
+.detail {
+  text-decoration: underline;
+}
+
+.fluffy p .detail {
+  color: red;
+}
